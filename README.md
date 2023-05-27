@@ -5,6 +5,10 @@
 
 MCC Island Pack is a Fabric modpack for [MCC Island](https://mccisland.net) server that improve performance and add some Quality of Life features!
 
+## Disclaimer:
+
+This modpack is not officially associated with or endorsed by the Noxcrew, the team behind the MCC Island server. It is an unofficial project and should not be considered as "official" or supported by the Noxcrew. Any bug reports or issues related to this modpack should not be filed with the Noxcrew.
+
 ## Mods & Shaders List
 <details>
 <summary>Click to show the lists</summary>
@@ -73,4 +77,4 @@ A: While these mods gives some advantage, according to [MCC Island's Approved Mo
 </details>
 
 ## Credits
-- Logo by [@MCCisland_](https://twitter.com/MCCisland_/)
+- Logo and Banner by [@MCCisland_](https://twitter.com/MCCisland_/)
