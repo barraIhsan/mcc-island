@@ -1,0 +1,14 @@
+name = "MCCI Utils"
+filename = "MCCI Utils-0.16.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/DJ1mNMjS/versions/SgxznTWN/MCCI Utils-0.16.jar"
+hash-format = "sha512"
+hash = "295c8a296ef8ccd9d423203d5a1862ee5bf2328268f7d67a439a2769157dc30d8c290656d5c08242132e30ca7e1725b70b8d1a0696d1beb3f5d78e7f232deb20"
+
+[update]
+[update.modrinth]
+mod-id = "DJ1mNMjS"
+version = "SgxznTWN"

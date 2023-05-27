@@ -1,0 +1,16 @@
+{
+  "enableDiscordStatus": false,
+  "customDetails": "IP",
+  "friendNotifications": "BOTH",
+  "questCompleteOptions": "BOTH",
+  "badgeAchievedOptions": "BOTH",
+  "chatMentions": "BOTH",
+  "chatMentionColor": "YELLOW",
+  "stackSpam": "CONSECUTIVE",
+  "autoGG": true,
+  "hideSlotHighlight": true,
+  "hidePanorama": false,
+  "disableGlowing": false,
+  "disableBossbar": false,
+  "disableScoreboard": false
+}
