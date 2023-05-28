@@ -7,7 +7,7 @@ MCC Island Pack is a Fabric modpack for [MCC Island](https://mccisland.net) serv
 
 ## Disclaimer:
 
-This modpack is not officially associated with or endorsed by the Noxcrew, the team behind the MCC Island server. It is an unofficial project and should not be considered as "official" or supported by the Noxcrew. Any bug reports or issues related to this modpack should not be filed with the Noxcrew.
+This modpack is not officially associated with or endorsed by the Noxcrew, the team behind the MCC Island server. It is an **unofficial** project and should not be considered as "official" or supported by the Noxcrew. Any bug reports or issues related to this modpack should not be filed with the Noxcrew.
 
 ## Mods & Shaders List
 <details>
@@ -75,6 +75,10 @@ A: While these mods gives some advantage, according to [MCC Island's Approved Mo
 ![allowed mods screenshot](https://i.imgur.com/Xw7lkze.png)
 
 </details>
+
+### Q: Is there a Toggle Sprint in this modpack?
+A: There is a toggle sprint feature on vanilla now.
+Just go to Options > Accessibility Settings and change the Sprint from `Hold` to `Toggle`
 
 ## Credits
 - Logo and Banner by [@MCCisland_](https://twitter.com/MCCisland_/)
