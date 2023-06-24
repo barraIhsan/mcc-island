@@ -29,7 +29,7 @@ This modpack is not officially associated with or endorsed by the Noxcrew, the t
 - [Very Many Players](https://modrinth.com/mod/wnEe9KBa) - Improve server performance at high player counts
 
 ### General QoL Mods
-- 📌 [MCCI Utils](https://modrinth.com/mod/DJ1mNMjS), and [Island Utils](https://modrinth.com/mod/iw8lsmHb) - Utility mod for MCC Island
+- 📌 [MCC: Island - Companion](https://modrinth.com/mod/yF4Uptui) - A companion mod for the MCC: Island Minecraft server!
 - 📌 [Iris](https://modrinth.com/mod/YL57xq9U) - A shaders mod
 - 📌 [Zoomify](https://modrinth.com/mod/w7ThoJFB) - A zoom mod with infinite customizability
 - [3d Skin Layers](https://modrinth.com/mod/zV5r3pPn) - Renders the player skin layer in 3d
