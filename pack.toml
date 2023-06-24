@@ -1,12 +1,12 @@
 name = "MCC Island"
 author = "barraIhsan"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2811f46d5eb8793110253abc79103f39f624016d95c8a5a3a46e5fa576846666"
+hash = "c987b1f18396a04eb4abb48e28dfc60884be8f2a2018bf305490f88a29de5fdd"
 
 [versions]
 fabric = "0.14.21"

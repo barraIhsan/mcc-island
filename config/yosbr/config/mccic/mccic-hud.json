@@ -1,0 +1,9 @@
+{
+  "hide_secure_chat_enforcement_toast": false,
+  "hud_enabled": false,
+  "hud_timer_position": "top",
+  "hud_queue_position": "top",
+  "player_preview_in_wardrobe": true,
+  "mccic_loading_screen": false,
+  "auto_close_beta_test_warning": false
+}

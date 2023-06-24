@@ -1,0 +1,11 @@
+{
+  "transition_to_overtime": true,
+  "overtime_transition_ticks": 40,
+  "fade_transition_ticks": 20,
+  "stop_music_on_chicken_hit": false,
+  "hitw_sound_on_other_death": "score",
+  "game_music_volume": 0.0,
+  "game_music_volume_after_death": 0.0,
+  "sfx_volume": 1.0,
+  "stop_music_on_death": false
+}

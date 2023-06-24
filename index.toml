@@ -1,28 +1,40 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/MCCI-Utils/game-sdk/discord_game_sdk.dll"
-hash = "e95e8d46087b846396c340b299fc20295a9aa79e328d2265e45d05ddc8782a0e"
+file = "config/yosbr/companion/settings/metrics.json"
+hash = "b043bf829e56c610a111ee7cd45313a6c3d47a4c9d6d8a2314656163467670f3"
 
 [[files]]
-file = "config/yosbr/config/MCCI-Utils/game-sdk/discord_game_sdk_jni.dll"
-hash = "08d6d7396df7129aef08b5832fadd33a1157934a1e166aa75251daef4cfb52ae"
-
-[[files]]
-file = "config/yosbr/config/MCCI-Utils/mcciutils.json"
-hash = "c4dbc31e0c76661a926014259860fb651c0f3dcce8046f90fbfc8658ab95e03b"
+file = "config/yosbr/companion/settings/music.json"
+hash = "b2423c48fa79e3a0e822944d4e234c4e30cc8d2225e72c9340de37e223fdac44"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "51336712e25933a4b3ef553958ead09ccf02a7502b02b4240ae60c381b1858f0"
 
 [[files]]
-file = "config/yosbr/config/islandutils_resources/island_utils.zip"
-hash = "a4d8c4ec63e6f88b023dbe857992df3744948b6fab49d13b00f84b8cf99587a9"
+file = "config/yosbr/config/mccic/mccic-chat.json"
+hash = "687fbe59820747fb367740f9b47b0ffc5126ad75d85e2e8da0867b6c932623c7"
 
 [[files]]
-file = "config/yosbr/config/islandutils_resources/pack.json"
-hash = "ef4443b591ebab7ec5dcd87a77299c69a2e75c367f54291a0961ff1291eecc27"
+file = "config/yosbr/config/mccic/mccic-discord-rp.json"
+hash = "3ec80d9dd21ff7883157cfd3e5317b1fe5143424cb04ea2294d2c0db54f0be4f"
+
+[[files]]
+file = "config/yosbr/config/mccic/mccic-hud.json"
+hash = "7223eced4564dec0f8396f6af61119ad54469daac45e75d382df4cf42d2c5569"
+
+[[files]]
+file = "config/yosbr/config/mccic/mccic-music.json"
+hash = "5a727ac562d152376d3aa128fdb53ff9489f63b1dc34b23ae2682cdd2d9bd80f"
+
+[[files]]
+file = "config/yosbr/config/mccic/mccic-qol.json"
+hash = "7c9de28f8d7d5452628c6f0827305d84c38de18d1cabc25a9dcd469836bb74ec"
+
+[[files]]
+file = "config/yosbr/config/mccic/mccic-toasts.json"
+hash = "815ad1284dacfce5168e118b50c06f20009aaac70120e90b80d0c9b146b0e135"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -129,11 +141,6 @@ hash = "7d4189d7092294795d7aefa5d02d2a9f21a8abed3298cfafef5080e0080a2dce"
 metafile = true
 
 [[files]]
-file = "mods/island-utils.pw.toml"
-hash = "791da3d40040802e676e39ac8ed6a98c744e1d13a62d05888c408511fba0bba9"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "981ea67d9581281bd48fee58439ab17d81778ff4d032db2af443cef677b0d21a"
 metafile = true
@@ -144,8 +151,13 @@ hash = "a60d5ba45799e93eff1772d72de41f2bab9590e81e0a97fea0015f25c90d1950"
 metafile = true
 
 [[files]]
-file = "mods/mcci-utils.pw.toml"
-hash = "1c49164f82847a8e0799d8cdbeeacb9d2187be00f87e2d78ec1e7bbac95510b5"
+file = "mods/mccic-alpha.pw.toml"
+hash = "9e68928a7abe1af0252abd6e321a9c972d88a6b7b945fa3af0f6dafb95f47a1a"
+metafile = true
+
+[[files]]
+file = "mods/mccic.pw.toml"
+hash = "0f925a9b6a7ba873526f25ba9679a15c390bbb717857980f8acd378785ee7ce2"
 metafile = true
 
 [[files]]
