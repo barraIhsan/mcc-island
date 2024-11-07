@@ -73,7 +73,7 @@ A: According to [MCC Island's Approved Mods page](https://mccisland.net/help/mod
 
 ### Q: Are mods like [AppleSkin](https://modrinth.com/mod/EsAfCjCV) and [Detail Armor Bar](https://modrinth.com/mod/hAt6ty93) bannable?
 
-A: While these mods gives some advantage, according to [MCC Island's Approved Mods page](https://mccisland.net/help/mods/#:~:text=Your%20own%20Status,weapons%20and%20tools%29)
+A: While these mods gives some advantage, according to [MCC Island's Approved Mods page](https://mccisland.net/help/mods/#:~:text=Your%20own%20Status,weapons%20and%20tools%29), it is allowed
 
 <details>
 <summary>Click to show image</summary>
