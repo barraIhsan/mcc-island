@@ -1,2 +1,6 @@
 # Exclude README
 /README.md
+
+# Exclude Images
+*.png
+*.xcf

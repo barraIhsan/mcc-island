@@ -1,8 +1,0 @@
-{
-  "extended_frustums": true,
-  "auto_hitbox_sky_battle": false,
-  "auto_hitbox_battle_box": false,
-  "confirm_disconnect_mode": "in_game",
-  "glowing_mode": "default",
-  "empty_slot_highlights_fix": true
-}

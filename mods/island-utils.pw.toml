@@ -1,0 +1,13 @@
+name = "Island Utils"
+filename = "islandutils-1.6.10+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iw8lsmHb/versions/TUC34dWr/islandutils-1.6.10%2B1.21.jar"
+hash-format = "sha512"
+hash = "59313a2861aca4748dc0cee38302f3c4e65052d78741e87a9d52b46eb051d7fadb10b4b3d7e0df7ce3dde44336a3d34fca49dfe05dc40791698551358e0d3276"
+
+[update]
+[update.modrinth]
+mod-id = "iw8lsmHb"
+version = "TUC34dWr"
