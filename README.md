@@ -86,7 +86,3 @@ A: While these mods gives some advantage, according to [MCC Island's Approved Mo
 
 A: There is a toggle sprint feature on vanilla now.  
 Just go to `Options` > `Accessibility Settings` and change the `Sprint` from `Hold` to `Toggle`
-
-## Credits
-
-- Logo and Banner by [@MCCisland\_](https://twitter.com/MCCisland_/)
